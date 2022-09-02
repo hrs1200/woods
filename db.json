@@ -1,5 +1,5 @@
 {
-  "stone": [
+  "woods": [
     {"id":1, "title": "SOFIA", "img":"https://firoozehtile.com/thumb/photos/400/400/uploads/pattern/gallery/00e5349b75b1ebbc7da0da6dde50834f.jpg", "size":"20X120", "color":"Brown"},
     {"id":2, "title": "LOGA", "img":"https://firoozehtile.com/thumb/photos/400/400/uploads/pattern/gallery/df9c0b751d5ff19fd4922ab8e84f5e4c.jpg", "size":"20X120", "color":"Cream"},
     {"id":3, "title": "KELONA", "img":"https://firoozehtile.com/thumb/photos/400/400/uploads/pattern/gallery/f2cb4aebb61b8e131978c8d7072c8304.jpg", "size":"20X120", "color":"Gray"}
