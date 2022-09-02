@@ -1,8 +1,8 @@
 {
   "stone": [
-    {"id":1, "title": "BELLO", "img":"https://firoozehtile.com/thumb/photos/400/400/uploads/pattern/gallery/3f4521e506fe4046937549d78ccd918c.jpg", "size":"60X120", "color":"Black"},
-    {"id":2, "title": "DREAM STONE", "img":"https://firoozehtile.com/thumb/photos/400/400/uploads/pattern/gallery/bf1db990d96ce72009e54516ed26f13e.jpg", "size":"60X120", "color":"Cream"},
-    {"id":3, "title": "FIONA", "img":"https://firoozehtile.com/thumb/photos/400/400/uploads/pattern/gallery/fbf9d8a27066f6ffa71688a15b27a213.jpg", "size":"60X120", "color":"Ivory"}
+    {"id":1, "title": "SOFIA", "img":"https://firoozehtile.com/thumb/photos/400/400/uploads/pattern/gallery/00e5349b75b1ebbc7da0da6dde50834f.jpg", "size":"20X120", "color":"Brown"},
+    {"id":2, "title": "LOGA", "img":"https://firoozehtile.com/thumb/photos/400/400/uploads/pattern/gallery/df9c0b751d5ff19fd4922ab8e84f5e4c.jpg", "size":"20X120", "color":"Cream"},
+    {"id":3, "title": "KELONA", "img":"https://firoozehtile.com/thumb/photos/400/400/uploads/pattern/gallery/f2cb4aebb61b8e131978c8d7072c8304.jpg", "size":"20X120", "color":"Gray"}
   ],
   "profile": {
     "name": "typicode"
